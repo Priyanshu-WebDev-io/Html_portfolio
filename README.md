@@ -30,15 +30,23 @@ portfolio/
 ├── README.md         # Documentation file
 └── LICENSE           # License file (optional)
 ```
-🛠️ Technologies Used
+
+---
+
+##🛠️ Technologies Used
 HTML5: For structuring the content.
 CSS3: For designing and styling.
 JavaScript: For adding interactivity and dynamic features.
+
+---
+
 📸 Screenshot
 
 Replace images/preview.png with the path to a screenshot of your portfolio.
 
-📥 Installation
+---
+
+##📥 Installation
 To view or modify the project locally:
 
 Clone the repository:
@@ -53,7 +61,9 @@ Copy code
 cd portfolio
 Open index.html in your browser.
 
-🤝 Contributing
+---
+
+##🤝 Contributing
 Contributions are welcome! If you have suggestions for improvement or new features:
 
 Fork this repository.
@@ -70,7 +80,10 @@ bash
 Copy code
 git push origin feature/YourFeatureName
 Open a pull request.
-📧 Contact
+
+---
+
+##📧 Contact
 Feel free to reach out to me:
 
 Email: your-email@example.com
