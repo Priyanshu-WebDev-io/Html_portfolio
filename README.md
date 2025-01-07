@@ -15,7 +15,7 @@ This is my personal portfolio website built using **HTML**, **CSS**, and **JavaS
 ---
 
 ## 🚀 Live Demo  
-[View My Portfolio Here](https://your-github-username.github.io/portfolio/)  
+[View My Portfolio Here](https://priyanshu.aspenglish.in/)  
 
 ---
 
@@ -49,7 +49,7 @@ Replace `images/preview.png` with the path to a screenshot of your portfolio.
 To view or modify the project locally:
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-github-username/portfolio.git
+    git clone https://github.com/.git
     ```
 2. Navigate to the project directory:
     ```bash
@@ -88,9 +88,3 @@ Feel free to reach out to me:
 
 ## 📜 License
 This project is licensed under the MIT License.
-
-### Notes for GitHub:
-1. **Live Demo Link:** Update `https://your-github-username.github.io/portfolio/` to match your GitHub Pages deployment URL.  
-2. **Images:** Add a screenshot of your portfolio in the `images` folder and update the path in the README.  
-3. **LICENSE File:** If you plan to use a license, include the file in your repo and mention it in the README.  
-4. **Contributing Section:** Include it if you’re open to collaboration.
