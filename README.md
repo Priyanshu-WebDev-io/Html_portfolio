@@ -1,6 +1,6 @@
 # 🌟 Personal Portfolio Website
 
-![Portfolio Preview](images/preview.png)
+![Portfolio Preview](/Screenshot 2025-01-07 200052.png)
 
 ## 📖 About  
 This is my personal portfolio website built using **HTML**, **CSS**, and **JavaScript**. It showcases my skills, projects, and contact information, serving as a professional online presence.  
