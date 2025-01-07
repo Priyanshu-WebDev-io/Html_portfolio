@@ -49,11 +49,11 @@ Replace `images/preview.png` with the path to a screenshot of your portfolio.
 To view or modify the project locally:
 1. Clone the repository:
     ```bash
-    git clone https://github.com/.git
+    git clone https://github.com/Priyanshu-WebDev-io/Html_portfolio/blob/main/README.md
     ```
 2. Navigate to the project directory:
     ```bash
-    cd portfolio
+    cd Html_portfolio
     ```
 3. Open `index.html` in your browser.
 
