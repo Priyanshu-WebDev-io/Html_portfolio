@@ -59,32 +59,8 @@ To view or modify the project locally:
 
 ---
 
-## 🤝 Contributing
-Contributions are welcome! If you have suggestions for improvement or new features:
-1. Fork this repository.
-2. Create a new branch:
-    ```bash
-    git checkout -b feature/YourFeatureName
-    ```
-3. Commit your changes:
-    ```bash
-    git commit -m 'Add YourFeatureName'
-    ```
-4. Push to the branch:
-    ```bash
-    git push origin feature/YourFeatureName
-    ```
-5. Open a pull request.
-
----
-
 ## 📧 Contact
 Feel free to reach out to me:
-- **Email:** your-email@example.com
-- **LinkedIn:** [Your LinkedIn Profile]
-- **GitHub:** [Your GitHub Profile]
-
----
-
-## 📜 License
-This project is licensed under the MIT License.
+- **Email:** priyanshukumar2043@gmail.com
+- **LinkedIn:** [https://www.linkedin.com/in/priyanshu-kumar-98004a340?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
+- **GitHub:** [https://github.com/Priyanshu-WebDev-io/Html_portfolio]
