@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body center>
+    <div class="container" style="display: flex;">
+        <div class="box1" style="width: 200px;height: 300px;display: flex;flex-direction: column;">
+            <h4>select border colour</h4>
+            <select name="select" id="brdr_clr" onchange="document.getElementById('box2').style.borderColor=document.getElementById('brdr_clr').value">
+                <option value=""></option>
+                <option value="Blue">blue</option>
+                <option value="Green">green</option>
+                <option value="Black">black</option>
+                <option value="Red">red</option>
+                <option value="Pink">pink</option>
+            </select>
+            <h4>select fill colour</h4>
+            <select name="" id="fill_clr" onChange="document.getElementById('box2').style.backgroundColor=document.getElementById('fill_clr').value">
+                <option value=""></option>
+                <option value="Blue">blue</option>
+                <option value="Green">green</option>
+                <option value="Black">black</option>
+                <option value="Red">red</option>
+                <option value="Pink">pink</option>
+            </select>
+            <h4>select font size</h4>
+            <select name="" id="size" onChange="document.getElementById('hh').style.fontSize=document.getElementById('size').value">
+                <option value=""></option>
+                <option value="5px">5px</option>
+                <option value="10px">10px</option>
+                <option value="15px">15px</option>
+                <option value="20px">20px</option>
+                <option value="25px">25px</option>
+            </select>
+        </div>
+        <div id="box2" style="width: 600px;height: 300px;border: 4px solid;">
+        </div>
+    </div>
+    <div class="box3" style="width: 800px;height: 150px;border: 4px solid;text-align: center;">
+        <h1 id="hh">sample text</h1>
+    </div>
+
+    <div class="back">
+        
+    </div>
+</body>
+</html>
